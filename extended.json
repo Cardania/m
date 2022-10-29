@@ -14,8 +14,7 @@
         "company": {
             "name": "Cardania Digital Assets",
             "city": "Grand Cayman",
-            "country": "Cayman Islands",
-            "company_id": "384606"
+            "country": "Cayman Islands"
         },
         "about": {
             "me": "Single Stakepool Operator building a Cardano-centric NFT gaming ecosystem",

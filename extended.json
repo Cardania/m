@@ -1,0 +1,24 @@
+{
+    "verification":"134c1e95dafe791320",
+    "info": {
+        "url_png_icon_64x64": "https://cardania.com/wp-content/uploads/2022/10/Station-icon-1.png",
+        "url_png_logo": "https://cardania.com/wp-content/uploads/2022/10/Station-icon-1.png",
+        "social": {
+            "twitter_handle": "https://twitter.com/Cardania_HQ",
+            "youtube_handle": "https://www.youtube.com/channel/UC7fHAMQpTjKGDSigA1TPZ7Q",
+            "twitch_handle": "https://www.twitch.tv/cardania_2021",
+            "discord_handle": "discord.gg/cardania",
+            "github_handle": "https://github.com/cardania",
+            "ada_handle": "$cardania"
+        },
+        "company": {
+            "name": "Cardania Digital Assets",
+            "city": "Grand Cayman",
+            "country": "Cayman Islands"
+        },
+        "about": {
+            "me": "Single Stakepool Operator building a Cardano-centric NFT gaming ecosystem",
+            "company": "Cardania Digital Assets is a pioneering company in the blockchain gaming space."
+        }
+    }
+}
